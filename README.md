@@ -1,28 +1,43 @@
-   ___    __  __ ___ ___ _  _ 
-  / _ \  |  \/  |_ _|_ _| \| |
- | (_) | | |\/| || | | || .` |
-  \___/  |_|  |_|___|___|_|\_|
+   ___    __  __ ___ ___ _   _ 
+  / _ \  |  \/  |_ _|_ _| \ | |
+ | (_) | | |\/| || | | ||  \| |
+  \___/  |_|  |_|___|___|_|\__|
+
+AMIIN YUSUF
 
 # Hi, I'm Amiin Yuusuf 👋
 
-📱 IT Student | Building Mobile Apps with Flutter
+📱 IT Student | Building Mobile Apps with Flutter  
 
-I'm passionate about building mobile applications, contributing to open source, and continuously improving my software development skills through hands-on projects.
+I'm passionate about building mobile applications and improving my software development skills through hands-on projects and continuous learning.  
+
+Currently focused on:  
+* 💙 Flutter  
+* 🔥 Firebase  
+* 🌱 Open Source  
+
 ---
-## 🛠️ Tech
-* Flutter * Firebase * Git * GitHub
+
+## 🛠️ Tech Stack
+* Flutter  
+* Firebase  
+* Git  
+* GitHub  
+
 ---
+
 ## 📂 Projects
-* 🚀 **Git & GitHub Bootcamp**
-  https://github.com/goobolabs/git-github-bootcamp
+* 📱 Flutter Apps  
+* 🚀 Personal Projects  
+* 🌍 Open Source Contributions  
 
-* 🌍 **GitHub Explore** *(Open Source Contributor)*
-  **Accepted Open Source Contribution (Merged PR)**
-  https://github.com/github/explore
-  
-* 💻 **Git Practice**
-  https://github.com/AmiinYuusuf87/Git-practice
 ---
+
 ## 📫 Connect
-* Email: amiinyuusuf8326@gmail.com
-* LinkedIn: https://www.linkedin.com/in/amiin-yuusuf/
+* 📧 Email: [your@email.com](mailto:your@email.com)  
+* 💼 LinkedIn: https://www.linkedin.com/in/your-profile  
+
+---
+
+> **Building Mobile Apps 📱**  
+> **Open Source • Continuous Learning**
