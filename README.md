@@ -21,7 +21,3 @@ Building Mobile Apps with Flutter • Open Source • Continuous Learning
   https://github.com/github/explore
 * 💻 **Git Practice**
   https://github.com/AmiinYuusuf87/Git-practice
----
-## 📫 Connect
-* 📧 Email: amiinyuusuf8326@gmail.com
-* 💼 LinkedIn: https://www.linkedin.com/in/amiin-yuusuf/
