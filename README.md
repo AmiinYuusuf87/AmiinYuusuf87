@@ -1,44 +1,30 @@
-      _    _ ___ ___ _   _   __     __
-     / \  | |_ _|_ _| \ | |  \ \   / /
-    / _ \ | || | | ||  \| |   \ \ / / 
-   / ___ \| || | | || |\  |    \ V /  
-  /_/   \_\___|___|_| \_|     \_/   
-
-AMIIN YUSUF
+```text
+       _              _ _        __   __                      __ 
+    / \   _ __ ___ (_|_)_ __   \ \ / /   _ _   _ ___ _   _ / _|
+   / _ \ | '_ ` _ \| | | '_ \   \ V / | | | | | / __| | | | |_ 
+  / ___ \| | | | | | | | | | |   | || |_| | |_| \__ \ |_| |  _|
+ /_/   \_\_| |_| |_|_|_|_| |_|   |_| \__,_|\__,_|___/\__,_|_|  
+                                                               
+```
 
 # Hi, I'm Amiin Yuusuf 👋
 
-📱 IT Student | Building Mobile Apps with Flutter  
-
-I'm passionate about building mobile applications and improving my software development skills through hands-on projects and continuous learning.  
-
-Currently focused on:  
-* 💙 Flutter  
-* 🔥 Firebase  
-* 🌱 Open Source  
-
+📱 IT Student | Building Mobile Apps with Flutter
+I'm passionate about building mobile applications, contributing to open source, and continuously improving my software development skills through hands-on projects.
 ---
+## 🛠️ Tech
 
-## 🛠️ Tech Stack
-* Flutter  
-* Firebase  
-* Git  
-* GitHub  
-
+* Flutter * Firebase * Git * GitHub
 ---
-
 ## 📂 Projects
-* 📱 Flutter Apps  
-* 🚀 Personal Projects  
-* 🌍 Open Source Contributions  
-
+* 🚀 **Git & GitHub Bootcamp**
+  https://github.com/goobolabs/git-github-bootcamp
+* 🌍 **GitHub Explore** *(Open Source Contributor)*
+  **Accepted Open Source Contribution (Merged PR)**
+  https://github.com/github/explore
+* 💻 **Git Practice**
+  https://github.com/AmiinYuusuf87/Git-practice
 ---
-
 ## 📫 Connect
 * 📧 Email: [your@email.com](mailto:your@email.com)  
-* 💼 LinkedIn: https://www.linkedin.com/in/your-profile  
-
----
-
-> **Building Mobile Apps 📱**  
-> **Open Source • Continuous Learning**
+* 💼 LinkedIn: https://www.linkedin.com/in/your-profile 
