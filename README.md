@@ -1,3 +1,8 @@
+   ___    __  __ ___ ___ _  _ 
+  / _ \  |  \/  |_ _|_ _| \| |
+ | (_) | | |\/| || | | || .` |
+  \___/  |_|  |_|___|___|_|\_|
+
 # Hi, I'm Amiin Yuusuf 👋
 
 📱 IT Student | Building Mobile Apps with Flutter
@@ -8,7 +13,6 @@ I'm passionate about building mobile applications, contributing to open source, 
 * Flutter * Firebase * Git * GitHub
 ---
 ## 📂 Projects
-
 * 🚀 **Git & GitHub Bootcamp**
   https://github.com/goobolabs/git-github-bootcamp
 
