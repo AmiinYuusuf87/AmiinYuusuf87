@@ -8,7 +8,7 @@
 </pre>
 # Hi, I'm Amiin Yuusuf 👋
 📱 IT Student
-Building Mobile Apps with Flutter • Open Source • Continuous Learning
+Building Mobile Apps • Open Source • Continuous Learning
 ---
 ## 🛠️ Tech
 * Flutter * Firebase * Git * GitHub
